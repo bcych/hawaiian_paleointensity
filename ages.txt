@@ -1,0 +1,38 @@
+tab 	ages
+age	age_sigma	age_unit	citations	description	location	method_codes	site
+0.19	0.035	Ma	This Study		Hawaiian Islands	GM-ARAR-AP	HW306
+2.07	0.01	Ma	This Study	22F19450	Hawaiian Islands	GM-ARAR-TF	ML001
+1.61	0.015	Ma	This Study	22F19393	Hawaiian Islands	GM-ARAR-AP	ML012
+1.9	0.05	Ma	This Study		Hawaiian Islands	GM-ARAR-AP	ML013
+1.77	0.01	Ma	This Study	22F19010	Hawaiian Islands	GM-ARAR-AP	ML015
+1.43	0.01	Ma	This Study	21G24822	Hawaiian Islands	GM-ARAR-AP	MU004
+0.61	0.006	Ma	10.1016/S0377-0273(02)00385-2		Hawaiian Islands	GM-KAR	MU009
+1.2295	0.0048	Ma	This Study	21G24961	Hawaiian Islands	GM-ARAR-II	MU011
+0.3	0.0108	Ma	This Study	21G24902	Hawaiian Islands	GM-ARAR-AP	MU012
+0.584	0.005	Ma	10.1016/S0377-0273(02)00385-2		Hawaiian Islands	GM-KAR	MU013
+0.0765	0.03175	Ma	10.1130/0016-7606(2003)115<0683:NKAATG>2.0.CO;2		Hawaiian Islands	GM-KAR	MU023
+0.095	0.0225	Ma	10.1130/0016-7606(2003)115<0683:NKAATG>2.0.CO;2		Hawaiian Islands	GM-KAR	MU025
+0.095	0.0225	Ma	10.1130/0016-7606(2003)115<0683:NKAATG>2.0.CO;2		Hawaiian Islands	GM-KAR	MU027
+0.067	0.0202	Ma	This Study	22F19297	Hawaiian Islands	GM-ARAR-AP	MU031
+0.0106	0.00425	Ma	This Study	21G24863	Hawaiian Islands	GM-ARAR-II	MU036
+1.49	0.025	Ma	This Study	22F18968	Hawaiian Islands	GM-ARAR-AP	MU106
+1.55	0.025	Ma	This Study	22F19257	Hawaiian Islands	GM-ARAR-AP	MU109
+1.45	0.03	Ma	This Study	22F19161	Hawaiian Islands	GM-ARAR-AP	MU111
+1.1	0.03	Ma	This Study	22F19201	Hawaiian Islands	GM-ARAR-AP	MU113
+2.55	0.04	Ma	This Study	22F18913	Hawaiian Islands	GM-ARAR-AP	OA003
+3.71	0.03	Ma	This Study	22F19064	Hawaiian Islands	GM-ARAR-AP	OA008
+3.49	0.085	Ma	This Study	21F20785	Hawaiian Islands	GM-ARAR-AP	OA014
+3.1	0.015	Ma	This Study	22F19104	Hawaiian Islands	GM-ARAR-AP	OA015
+2.84	0.03	Ma	This Study	22G07791	Hawaiian Islands	GM-ARAR-AP	OA019
+2.76	0.05	Ma	This Study		Hawaiian Islands	GM-ARAR-AP:GM-CC-STRAT	OA026
+2.72	0.04	Ma	This Study	22G07834	Hawaiian Islands	GM-ARAR-AP	OA028
+0.38	0.055	Ma	10.1016/j.epsl.2005.01.02		Hawaiian Islands	GM-KAR	OA030
+0.48	0.02	Ma	10.1016/j.epsl.2005.01.02		Hawaiian Islands	GM-KAR	OA100
+0.48	0.02	Ma	10.1016/j.epsl.2005.01.02		Hawaiian Islands	GM-KAR	OA101
+2.18	0.175	Ma	This Study	21F20846	Hawaiian Islands	GM-ARAR-AP	OA104
+2.25	0.085	Ma	This Study	22G07897	Hawaiian Islands	GM-ARAR-AP	OA108
+2.87	0.03	Ma	This Study	21F20890	Hawaiian Islands	GM-ARAR-AP	OA114
+3.72	0.025	Ma	This Study	21G25039	Hawaiian Islands	GM-ARAR-AP	OA116
+3.72	0.025	Ma	This Study	21G25039	Hawaiian Islands	GM-ARAR-AP	OA117
+2.59	0.045	Ma	This Study	22G07708	Hawaiian Islands	GM-ARAR-AP	OA123
+3.15	0.015	Ma	This Study	22G16784	Hawaiian Islands	GM-ARAR-AP	OA124

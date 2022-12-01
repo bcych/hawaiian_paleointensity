@@ -1,0 +1,5 @@
+tab 	locations
+age	age_high	age_low	age_unit	citations	geologic_classes	lat_n	lat_s	lithologies	location	location_type	lon_e	lon_w	method_codes
+	0	5	Ma		Intrusive:Extrusive	21.55	20.0	Scoria:Basanite:Basalt	Hawaiian Islands	Region	204.3	201.75	
+	5	0	Ma	This Study	Igneous:Extrusive:Intrusive	-77.2233	-78.4	Basalt:Trachyte	McMurdo	Outcrop	169.38	162.144	
+	5	0	Ma	This Study	Extrusive:Igneous	33.2492	32.4497	Basalt	Golan Heights	Outcrop	35.8568	35.4576	LP-PI-TRM

@@ -1,0 +1,14 @@
+tab 	criteria
+citations	criterion	criterion_operation	criterion_value	description	table_column
+This study	IE-SITE	>=	3.0	acceptance criteria for CCRIT results	sites.int_n_specimens
+This study	IE-SITE	<=	4e-06	acceptance criteria for CCRIT results	sites.int_abs_sigma
+This study	IE-SITE	<=	10.0	acceptance criteria for CCRIT results	sites.int_abs_sigma_perc
+This study	IE-SPEC	<=	0.1	acceptance criteria for CCRIT results	specimens.int_b_beta
+This study	IE-SPEC	>=	0.78	acceptance criteria for CCRIT results	specimens.int_frac
+This study	IE-SPEC	<=	0.6	acceptance criteria for CCRIT results	specimens.int_gmax
+This study	IE-SPEC	<=	10.0	acceptance criteria for CCRIT and BiCEP results	specimens.int_dang
+This study	IE-SPEC	<=	5.0	acceptance criteria for CCRIT results	specimens.int_mad_free
+This study	IE-SPEC	<=	0.164	acceptance criteria for CCRIT results	specimens.int_k_prime
+This study	IE-SPEC	=	True	acceptance criteria for CCRIT results	specimens.int_scat
+This study	IE-SPEC	<=	5.0	acceptance criteria for BiCEP results	specimens.int_mad_coe
+This study	IE-SPEC	<=	10.0	acceptance criteria for BiCEP results	specimens.int_drat
